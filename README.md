@@ -1,1 +1,1 @@
-This is Ben's first The Oding Project git assignment.
+This is Ben's first The Odin Project git assignment.
